@@ -10,5 +10,7 @@ AutoScroll is a chrome extension to auto-scroll websites with endless scroll
 3) You can scroll up to the top of the website
 
 
-https://github.com/NiklausM9/AutoScroll/assets/123498072/9c541c98-2641-4b88-ad50-17f6503e9fef
+https://github.com/NiklausM9/AutoScroll/assets/123498072/9e271b87-8ef1-4291-91cc-67aefc3a450d
+
+
 
